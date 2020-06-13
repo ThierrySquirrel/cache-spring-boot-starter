@@ -46,7 +46,7 @@ public class CacheRedisTemplate extends RedisTemplate<CacheDomain, CacheDomain> 
         CacheDomain keyCacheDomain = CacheDomainFactory.createKeyCacheDomain (key);
         keyCacheDomain.setRedisExpiredCacheIdentity (RedisConsumerConstant.REDIS_EXPIRED_CACHE_IDENTITY.getValue ());
         CacheDomain valueCacheDomain = CacheDomainFactory.createValueCacheDomain (value);
-        this.opsForValue ().set (keyCacheDomain, valueCacheDomain, cacheProperties.getExpirationTime ()*2, TimeUnit.SECONDS);
+        this.opsForValue ().set (keyCacheDomain, valueCacheDomain, cacheProperties.getExpirationTime (), TimeUnit.SECONDS);
     }
 
     public Object getCache(String key) {
