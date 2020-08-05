@@ -25,7 +25,7 @@ Support function:
         <dependency>
             <groupId>com.github.thierrysquirrel</groupId>
             <artifactId>cache-spring-boot-starter</artifactId>
-            <version>1.0.2-RELEASE</version>
+            <version>1.0.3-RELEASE</version>
         </dependency>
 ``` 
 
