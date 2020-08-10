@@ -1,6 +1,6 @@
 # cache-spring-boot-starter
 
-cache RocketMQ Spring Book Edition
+cache Spring Book Edition
 
 [中文](./README_zh_CN.md)
 

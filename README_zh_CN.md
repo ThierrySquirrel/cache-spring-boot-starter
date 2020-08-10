@@ -1,6 +1,6 @@
 # cache-spring-boot-starter
 
-缓存RocketMQ   SpringBoot 版
+缓存 SpringBoot 版
 
 [English](./README.md)
 
