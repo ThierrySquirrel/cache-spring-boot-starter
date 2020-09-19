@@ -9,4 +9,4 @@ ${AnsiColor.BRIGHT_GREEN}
      `\       /'
        `-._.-'
           `
-cache version:1.0.4.RELEASE
+cache version:1.0.5.RELEASE
