@@ -7,7 +7,7 @@
     <groupId>com.github.thierrysquirrel</groupId>
     <artifactId>cache-spring-boot</artifactId>
     <packaging>pom</packaging>
-    <version>1.0.9-RELEASE</version>
+    <version>1.1.0-RELEASE</version>
 
     <name>cache-spring-boot</name>
     <description>cache-spring-boot</description>
@@ -16,7 +16,7 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>2.4.2</version>
+        <version>2.4.3</version>
         <relativePath/>
     </parent>
 
@@ -27,11 +27,11 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <spring-cloud.version>2020.0.0</spring-cloud.version>
+        <spring-cloud.version>2020.0.1</spring-cloud.version>
         <guava.version>30.1-jre</guava.version>
         <protostuff-runtime.version>1.7.2</protostuff-runtime.version>
         <protostuff-core.version>1.7.2</protostuff-core.version>
-        <caffeine.version>2.8.8</caffeine.version>
+        <caffeine.version>3.0.0</caffeine.version>
         <maven-javadoc-plugin.version>3.2.0</maven-javadoc-plugin.version>
         <maven-gpg-plugin.version>1.6</maven-gpg-plugin.version>
     </properties>
