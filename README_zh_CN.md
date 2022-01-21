@@ -25,7 +25,7 @@
         <dependency>
             <groupId>com.github.thierrysquirrel</groupId>
             <artifactId>cache-spring-boot-starter</artifactId>
-            <version>1.2.1.1-RELEASE</version>
+            <version>1.2.1.2-RELEASE</version>
         </dependency>
 ``` 
 
