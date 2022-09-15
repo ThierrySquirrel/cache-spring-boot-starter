@@ -62,6 +62,6 @@ public class ClearCacheRestController {
 }
  ```
  
- ![AmericanFlag](https://user-images.githubusercontent.com/49895274/184471034-a703c1d2-e6d6-4d1d-a195-694d315a89ed.jpeg)  
+![Russian flag](https://user-images.githubusercontent.com/49895274/190372870-c3ae28ca-af94-4b8b-8403-98924209d80a.png)
 
  
